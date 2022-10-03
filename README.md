@@ -25,18 +25,28 @@
 **6.** That should connect your git and github. 
 
 # Glossery
-**Branch-**A parallel version of a repository. It is contained in the repository byt does not change anything in the main branch. 
-**Clone-** A coppy of a repository that lives in your computer instead of on a server. Source:https://docs.github.com/en/get-started/quickstart/github-glossary
-**Commit-** A revision, a change to a file 
-**Fetch-** When you add a change from the remote repositroy to your local branch without commiting.
-**GIT-** An open source program for tracking changes in text files.
-**Github-** A hosting service for software development as well as version control using GIT.  
-**Merge-** Taking the changes form one branch and applieing them to another. 
-**Merge Conflict-** A difference between two branches
-**Push-** Sending your commited changes to a remote repository
+**Branch**A parallel version of a repository. It is contained in the repository byt does not change anything in the main branch. 
+
+**Clone** A coppy of a repository that lives in your computer instead of on a server. Source:https://docs.github.com/en/get-started/quickstart/github-glossary
+**Commit** A revision, a change to a file 
+
+**Fetch** When you add a change from the remote repositroy to your local branch without commiting.
+
+**GIT** An open source program for tracking changes in text files.
+
+**Github** A hosting service for software development as well as version control using GIT.  
+
+**Merge** Taking the changes form one branch and applieing them to another.
+
+**Merge Conflict** A difference between two branches
+
+**Push** Sending your commited changes to a remote repository
+
 **Pull-** When you getch changes and merge them with a current branch or repo. 
-**Remote-** A version of a repository or branch that is hosted on a server.
-*Repository-** A basic element of Github, they are like project folders. 
+
+**Remote** A version of a repository or branch that is hosted on a server.
+
+*Repository** A basic element of Github, they are like project folders. 
 
 ## Sourcse:
 **1.** https://www.google.com/search?q=what+is+github&rlz=1C1UEAD_enUS1014US1015&oq=what+is+github&aqs=chrome..69i57j0i512l9.1762j0j7&sourceid=chrome&ie=UTF-8
