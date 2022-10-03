@@ -1,4 +1,7 @@
 # A03
+
+#What are Webstorm, GIT, and GitHub?
+Webstorm is a IDE platform used for coding. GIT is a open source software that allows a user to track and update changes in a file. GitHub is a software integrated with GIT that allows one to organize and upload project files, update them, and host them. 
 # How to use Webstorm:
 **1.** Go to https://www.jetbrains.com/shop/eform/students
 
