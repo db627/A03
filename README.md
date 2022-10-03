@@ -16,7 +16,7 @@
 **5.** Give your repository a name Ex.A03
 **6.** Slow down to where it says, "Add a README file" and click the check mark, then scroll down and click create repository. 
 
-##Connect Github to Webstorm
+## Connect Github to Webstorm
 **1.** In WebStrom, go to file, settings
 **2.** In Settings, go to the search bar in the top right and search GIT.
 **3.** Add your path to where your GIT is located
